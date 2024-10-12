@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sim-project version="13.05" multi-file="no" uid="simp0e310380eb9a40e4afbf3fa558c0de8f">
+  <meta>
+    <name>SIMAMAT Modeling</name>
+    <authors>Dyo Wiranata Mulya</authors>
+    <description>SISTEM INFORMASI PELAKSANAAN PROGRAM MAGANG MAHASISWA BERSERTIFIKAT BERBASIS WEB DI PT TIMAH TBK
+
+Nama: Dyo Wiranata Mulya
+NIM: 17111038
+Kelas: TIFK17A
+Jenjang: Strata Satu (S1)
+Departemen: Teknik Informatika
+Fakultas: Industri Kreatif
+Sekolah: Universitas Teknologi Bandung
+
+Dosen Pembimbing 1: Bpk. Fadly Febriya, S.SI., M.Kom.
+Dosen Pembimbing 2: Bpk. Ahsani Takwim, M.Kom.
+Dosen Penguji 1: Bpk. Danny Aidil Rismayadi, S.SI., M.Kom.
+Dosen Penguji 2: -
+
+Bahasa Pemrograman: PHP v8.2 (CodeIgniter 4)
+DBMS: MySQL</description>
+  </meta>
+  <counters models="6">
+    <entity-names />
+    <entity-ids>
+      <counter>
+        <item-type type-id="group" type="Group" />
+        <value>3</value>
+      </counter>
+    </entity-ids>
+    <diagrams>
+      <counter>
+        <type>SoftwareIdeasModeler.Core.Diagrams.UmlDiagrams.UmlUseCaseDiagram</type>
+        <value>1</value>
+      </counter>
+    </diagrams>
+    <fields />
+  </counters>
+  <alias-groups />
+  <management uid="md-f612d14dc1d44d78a2643a0b3f6562e4" name="" task-id-sequence="0">
+    <persons>
+      <person id="">
+        <first-name>XVIID</first-name>
+        <last-name>Developer</last-name>
+        <role />
+        <e-mail>mr.xviid@gmail.com</e-mail>
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+      </person>
+    </persons>
+    <teams />
+    <sprints />
+    <projects />
+    <modules />
+    <tasks />
+    <to-dos />
+  </management>
+  <glossary id="glsr-66d625647f444614ba24d2db2f86382a" />
+  <types default="UML">
+    <type-sets>
+      <type-set file="UmlTypes.xml" />
+    </type-sets>
+    <custom-types />
+  </types>
+  <items />
+  <models>
+    <model id="p0646be2d33294f26b89d30286bd7db1c_203585493" name="Mockup" namespace="" order-index="1">
+      <meta>
+        <authors>
+          <author> </author>
+        </authors>
+        <description />
+        <creation-date>10/13/2024 01:05:26</creation-date>
+        <change-date>01/01/0001 00:00:00</change-date>
+        <revision-count>0</revision-count>
+        <version />
+      </meta>
+      <abstract-items />
+      <sub-models />
+    </model>
+    <model id="p2013e5e533ee4fa293f67f3c8da5b830_699593734" name="Use Case" namespace="" order-index="2">
+      <meta>
+        <authors>
+          <author> </author>
+        </authors>
+        <description />
+        <creation-date>10/13/2024 01:10:43</creation-date>
+        <change-date>01/01/0001 00:00:00</change-date>
+        <revision-count>0</revision-count>
+        <version />
+      </meta>
+      <abstract-items />
+      <sub-models />
+      <diagram type="uml-usecase" id="pd68b868f36be4e57ab6a11d2bf073988_424685693" name="UseCaseDiagram1" order-index="1" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-field-tags="true" show-empty-compartments="true" show-special-indicators="false" show-rules="true" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-visibility-sign="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-data="true" show-description="false" show-field-description="false" auto-routed-paths="false" default-line-style="default">
+        <style>
+          <background-color index="1" color="#FFFFFFFF" />
+          <background-color index="2" color="#FFFFFFFF" />
+          <background-type type="solid" />
+        </style>
+        <meta>
+          <authors>
+            <author> </author>
+          </authors>
+          <description />
+          <creation-date>10/13/2024 01:13:44</creation-date>
+          <change-date>10/13/2024 01:13:44</change-date>
+          <revision-count>0</revision-count>
+          <version />
+        </meta>
+        <abstract-items />
+        <layer id="d4710a8229c64294a4b52c9dacb15ba4" name="Default" visible="true" enabled="true" locked="false" />
+      </diagram>
+    </model>
+    <model id="peda4277689c74539b936d54c771f6ac6_884148397" name="Class Diagram" namespace="" order-index="3">
+      <meta>
+        <authors>
+          <author> </author>
+        </authors>
+        <description />
+        <creation-date>10/13/2024 01:11:09</creation-date>
+        <change-date>01/01/0001 00:00:00</change-date>
+        <revision-count>0</revision-count>
+        <version />
+      </meta>
+      <abstract-items />
+      <sub-models />
+    </model>
+    <model id="pda5057a5dd314790a8c9aaff66be38d4_393151330" name="Entity Relationship Diagram" namespace="" order-index="4">
+      <meta>
+        <authors>
+          <author> </author>
+        </authors>
+        <description />
+        <creation-date>10/13/2024 01:11:22</creation-date>
+        <change-date>01/01/0001 00:00:00</change-date>
+        <revision-count>0</revision-count>
+        <version />
+      </meta>
+      <abstract-items />
+      <sub-models />
+    </model>
+    <model id="p6e1f577868e24a998cf50fce03fc4e94_774184635" name="Sequence Diagram" namespace="" order-index="5">
+      <meta>
+        <authors>
+          <author> </author>
+        </authors>
+        <description />
+        <creation-date>10/13/2024 01:11:42</creation-date>
+        <change-date>01/01/0001 00:00:00</change-date>
+        <revision-count>0</revision-count>
+        <version />
+      </meta>
+      <abstract-items />
+      <sub-models />
+    </model>
+    <model id="pa0cb1b15f52d4d5da7aacb71fe8c2f40_647093337" name="Routings" namespace="" order-index="6">
+      <meta>
+        <authors>
+          <author> </author>
+        </authors>
+        <description />
+        <creation-date>10/13/2024 01:12:34</creation-date>
+        <change-date>01/01/0001 00:00:00</change-date>
+        <revision-count>0</revision-count>
+        <version />
+      </meta>
+      <abstract-items />
+      <sub-models />
+    </model>
+  </models>
+</sim-project>
