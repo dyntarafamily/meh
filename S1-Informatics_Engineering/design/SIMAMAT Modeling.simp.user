@@ -1,3 +1,5 @@
 ﻿<user-preferences>
-  <open-windows />
+  <open-windows>
+    <window type="Diagram" resource="pd68b868f36be4e57ab6a11d2bf073988_424685693" />
+  </open-windows>
 </user-preferences>
