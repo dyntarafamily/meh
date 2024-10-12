@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sim-project version="13.05" multi-file="no" uid="simp0e310380eb9a40e4afbf3fa558c0de8f">
+  <meta>
+    <name>SIMAMAT Modeling</name>
+    <authors>Dyo Wiranata Mulya</authors>
+    <description>SISTEM INFORMASI PELAKSANAAN PROGRAM MAGANG MAHASISWA BERSERTIFIKAT BERBASIS WEB DI PT TIMAH TBK
+
+Nama: Dyo Wiranata Mulya
+NIM: 17111038
+Kelas: TIFK17A
+Jenjang: Strata Satu (S1)
+Departemen: Teknik Informatika
+Fakultas: Industri Kreatif
+Sekolah: Universitas Teknologi Bandung
+
+Dosen Pembimbing 1: Bpk. Fadly Febriya, S.SI., M.Kom.
+Dosen Pembimbing 2: Bpk. Ahsani Takwim, M.Kom.
+Dosen Penguji 1: Bpk. Danny Aidil Rismayadi, S.SI., M.Kom.
+Dosen Penguji 2: -
+
+Bahasa Pemrograman: PHP v8.2 (CodeIgniter 4)
+DBMS: MySQL</description>
+  </meta>
+  <counters models="1">
+    <entity-names />
+    <entity-ids />
+    <diagrams />
+    <fields />
+  </counters>
+  <alias-groups />
+  <management uid="md-f612d14dc1d44d78a2643a0b3f6562e4" name="" task-id-sequence="0">
+    <persons>
+      <person id="">
+        <first-name>XVIID</first-name>
+        <last-name>Developer</last-name>
+        <role />
+        <e-mail>mr.xviid@gmail.com</e-mail>
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+      </person>
+    </persons>
+    <teams />
+    <sprints />
+    <projects />
+    <modules />
+    <tasks />
+    <to-dos />
+  </management>
+  <glossary id="glsr-66d625647f444614ba24d2db2f86382a" />
+  <types default="UML">
+    <type-sets>
+      <type-set file="UmlTypes.xml" />
+    </type-sets>
+    <custom-types />
+  </types>
+  <items />
+  <models>
+    <model id="p0646be2d33294f26b89d30286bd7db1c_203585493" name="Model1" namespace="" order-index="1">
+      <meta>
+        <authors>
+          <author> </author>
+        </authors>
+        <description />
+        <creation-date>10/13/2024 01:05:26</creation-date>
+        <change-date>01/01/0001 00:00:00</change-date>
+        <revision-count>0</revision-count>
+        <version />
+      </meta>
+      <abstract-items />
+      <sub-models />
+    </model>
+  </models>
+</sim-project>
